@@ -1,1 +1,2 @@
 # Breast-Cancer-Classification-using-machine-learning
+This project is aimed at training various machine learning models like Logistic Regression, SVM, KNN, Random Forest Classifier and Decision tree for classifying whether a tumor is malignant or benign. The Wisconsin Diagnostic Breast Cancer data-set from UCI Machine Learning Repository that consists of images of breast mass from various patients has been used in this project. 
